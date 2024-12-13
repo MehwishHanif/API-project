@@ -1443,4 +1443,4 @@ Return spots filtered by query parameters.
       }
     }
     ```
-# Test-API
+>>>>>>> dev
